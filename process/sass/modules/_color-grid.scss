@@ -1,0 +1,33 @@
+#color-grid {
+    background: $color-backgrounds
+}
+
+.grid{
+    display: flex;
+    height: 100px;
+}
+
+.color1 {
+    background: $fuego;
+    height: 100px;
+    width: 100px
+}
+
+.color2 {
+    background: $sol;
+    height: 100px;
+    width: 100px;
+}
+
+.color3 {
+    background: $ranjado;
+    height: 100px;
+    width: 100px;
+}
+
+.color4 {
+    background: mar;
+    height: 100px;
+    width: 100px;
+}
+

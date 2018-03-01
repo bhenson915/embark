@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant:300,400,500,600,700|Montserrat:400,700');
+
+$blanco:     #EEEEEE;
+$sol:        #F6BB16;
+$ranjado:    #EDA222;
+$fuego:      #F16521;
+$mar:        #00A79C;
+$noche:      #272560;
+$grey:       #666666;
+
+
+$color-main: $grey;
+$color-backgrounds: $blanco;
+$color-headlines: $fuego;
+
+
+$font-highlight: 'Montserrat', Helvetica, Arial, sans-serif;
+$font-main: 'Cormorant', 'Times New Roman', Times, serif;
+
+//breakpoints
+
+$small:		450px;
+$medium:	760px;
+$large:		1200px;
